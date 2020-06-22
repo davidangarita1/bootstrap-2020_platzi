@@ -1,4 +1,4 @@
-# platzi-bootstrap-2020
+# Platzi-Bootstrap-2020
 Is a complete website that was built with javascript technologies, Jquery, for the frontend.
 
 # Link Web
